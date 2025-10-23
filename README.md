@@ -29,6 +29,5 @@ Built with **Unreal Engine** using **Blueprint scripting** for interaction, puzz
 ---
 
 ### 📩 Contact
-Created by **Zhehan Hu**  
-Portfolio: *(add link)*  
-Email: *(add email)*  
+Created by **Zhehan Hu, Ziyi Huang, Ziyao Shan, Yirui Chen**  
+Portfolio: *https://intramentem.creght.site/*   
